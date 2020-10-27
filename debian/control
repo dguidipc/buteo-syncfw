@@ -1,7 +1,7 @@
 Source: buteo-syncfw
 Section: utils
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Davide Guidi <davide@planetcom.co.uk>
 XSBC-Original-Maintainer: Duggirala Karthik <karthik.2.duggirala@nokia.com>
 Build-Depends: debhelper (>= 9),
                doxygen,

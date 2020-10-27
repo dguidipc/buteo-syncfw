@@ -1,3 +1,9 @@
+buteo-syncfw (0.8.6+gemian) buster; urgency=medium
+
+  * Imported to Gemian
+
+ -- Imported <davide@planetcom.co.uk>  Tue, 27 Oct 2020 16:09:26 +0100
+
 buteo-syncfw (0.8.6+ubports) xenial; urgency=medium
 
   * Imported to UBports
